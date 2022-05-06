@@ -2,4 +2,4 @@ This Is My First Git Document
 
 Changing The document creates a new version
 
-I have added this line in branch 'branch1' and not in the 'main' branch
+I have edited this line in branch 'branch2'

@@ -12,7 +12,7 @@
 **Branches are used to work on the project following different routes**
 
 ## Pull Request
-
+**Take some changes from a particular branch and bring them into another branch**
 
 ## Merge
 **Merging a branch with another one**
